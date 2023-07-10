@@ -1,2 +1,2 @@
 hiiiiiiiiiiiiiiiiiiiii
-hi i am mnaoj k m 
+i am learnig vim editor 
