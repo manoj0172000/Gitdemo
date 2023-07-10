@@ -1,3 +1,3 @@
 hi this is my first commite
 i am learning git
-i am learninh commands
+jjkkkkkjji am learninh commands and merge
